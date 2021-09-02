@@ -1,4 +1,8 @@
-# DailyProject
+## 微信公众号文章分享，关注微信公众号『Python学习与数据挖掘』
+
+为方便技术交流，本号开通了技术交流群，有问题请添加小助手微信号：pythoner666，备注:CSDN。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201230215036559.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODAzNzQwNQ==,size_16,color_FFFFFF,t_70#pic_center)
+
 > 该项目会**持续维护**，欢迎各位补充，喜欢点个赞，谢谢！
 
 - Python入门到进阶
@@ -171,9 +175,5 @@
 
 获取链接：[地址(提取码：g3s2)](https://pan.baidu.com/s/1_h9YsJhY07BpirQvF_mpmw)
 
-##### 更多精彩内容，关注微信公众号『Python学习与数据挖掘』
-
-为方便技术交流，本号开通了技术交流群，有问题请添加小助手微信号：pythoner666，备注:CSDN。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201230215036559.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODAzNzQwNQ==,size_16,color_FFFFFF,t_70#pic_center)
 
 **有所收获，点个赞，谢啦**
